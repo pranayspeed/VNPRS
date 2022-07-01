@@ -1,0 +1,85 @@
+E:\My VS project\VNPRS\VNPRS\bin\Debug\VNPRS.exe
+E:\My VS project\VNPRS\VNPRS\bin\Debug\VNPRS.pdb
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.GPU.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.OCR.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.UI.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.Util.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\ZedGraph.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.GPU.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.OCR.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.CV.UI.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\Emgu.Util.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\ZedGraph.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\My VS project\VNPRS\VNPRS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My VS project\VNPRS\VNPRS\obj\x86\Debug\VNPRS.CameraCapture.resources
+E:\My VS project\VNPRS\VNPRS\obj\x86\Debug\VNPRS.Properties.Resources.resources
+E:\My VS project\VNPRS\VNPRS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My VS project\VNPRS\VNPRS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My VS project\VNPRS\VNPRS\obj\x86\Debug\VNPRS.exe
+E:\My VS project\VNPRS\VNPRS\obj\x86\Debug\VNPRS.pdb
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Imaging.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Imaging.Formats.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.MachineLearning.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Math.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Video.DirectShow.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Video.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Vision.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Controls.dll
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Imaging.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Imaging.Formats.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.MachineLearning.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Math.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Video.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Video.DirectShow.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Vision.xml
+E:\My VS project\VNPRS\VNPRS\bin\Debug\AForge.Controls.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\VNPRS.exe
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\VNPRS.pdb
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Controls.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Imaging.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Imaging.Formats.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.MachineLearning.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Math.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Video.DirectShow.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Video.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Vision.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.GPU.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.ML.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.OCR.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.Stitching.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.UI.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.Util.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\ZedGraph.dll
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Controls.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Imaging.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Imaging.Formats.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.MachineLearning.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Math.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Video.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Video.DirectShow.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\AForge.Vision.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.GPU.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.ML.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.OCR.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.Stitching.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.CV.UI.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\bin\Debug\Emgu.Util.xml
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\obj\x86\Debug\VNPRS.CameraCapture.resources
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\obj\x86\Debug\VNPRS.Properties.Resources.resources
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\obj\x86\Debug\VNPRS.csproj.GenerateResource.Cache
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\obj\x86\Debug\VNPRS.exe
+C:\MY STUFF\DEVELOPMENT\PROJECT\VNPRS\VNPRS\obj\x86\Debug\VNPRS.pdb
